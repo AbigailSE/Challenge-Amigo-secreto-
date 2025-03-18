@@ -1,5 +1,4 @@
 # 🎁 Amigo Secreto Challenge  
-![Banner](https://via.placeholder.com/800x200.png?text=Amigo+Secreto+Challenge)  
 
 📌 **Descripción**  
 Este es un reto de programación para crear una aplicación web en **JavaScript** que organice un sorteo de **Amigo Secreto**.  
@@ -14,7 +13,7 @@ Este es un reto de programación para crear una aplicación web en **JavaScript*
 ✅ Interfaz amigable con HTML, CSS y JavaScript.  
 ✅ *(Extra)* Mejoras visuales y botón de reinicio.  
 
----
+
 
 ## 🛠️ **Tecnologías Usadas**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -24,6 +23,7 @@ Este es un reto de programación para crear una aplicación web en **JavaScript*
 ---
 
 ## 📷 **Vista Previa**  
+---![imagen muestra](https://github.com/user-attachments/assets/fc104777-0f48-40ed-ab0f-00f13d85ed92)
 
 
 ---
